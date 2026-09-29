@@ -31,7 +31,7 @@ var DEATH_DATE = "۱۴۰۵/۶/۲۷";
 
 
 /* 3) Memorial message shown under the photo (Persian) */
-var MEMORIAL_MESSAGE = "یاد و خاطره پدر و پدربزرگ مهربانمان، همیشه در قلب ما زنده خواهد ماند.";
+var MEMORIAL_MESSAGE = "یاد و خاطره پدر و پدربزرگ عزیزمان، همیشه در قلب ما زنده خواهد ماند.";
 
 
 /* 4) PHOTO
