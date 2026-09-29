@@ -13,7 +13,7 @@
 
 
 /* 1) Title at the top of the page (Persian) */
-var PAGE_TITLE = "به یاد پدربزرگ عزیزم";
+var PAGE_TITLE = "یادمان زنده‌یاد";
 
 
 /* 2) OPTIONAL: full name, birth date, passing date (Persian).
@@ -31,7 +31,7 @@ var DEATH_DATE = "۱۴۰۵/۶/۲۷";
 
 
 /* 3) Memorial message shown under the photo (Persian) */
-var MEMORIAL_MESSAGE = "یادت همیشه در قلب ما زنده خواهد ماند.";
+var MEMORIAL_MESSAGE = "یاد و خاطره پدر و پدربزرگ مهربانمان، همیشه در قلب ما زنده خواهد ماند.";
 
 
 /* 4) PHOTO
